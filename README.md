@@ -1,10 +1,15 @@
 # git-learning
 
 Do github setup on your own laptop and use Mock files.
+
 Create branches.
+
 Create PRs on your Repo.
+
 Ask Chatgpt to create a Merge Conflict Scenerio on your branches. And learn how to resolve.
-Git add. Git branch -b git commit git push, git merge, git fetch vs git pull when to do which and what is difference. 
+
+Git add. Git branch -b git commit git push, git merge, git fetch vs git pull when to do which and what is difference.
+ 
 Git rebase at the end.
 
 
